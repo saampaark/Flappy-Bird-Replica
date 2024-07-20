@@ -21,4 +21,4 @@ Welcome to the Flappy Bird Clone project! This is a simple, fun, and addictive g
 - Your score increases with each pipe you successfully pass through.
 
 ## Future Plans 
-- Program an AI to play the game of Flappy Bird through the NEAT algorithm
+- Program an AI to play the game of Flappy Bird through the NEAT algorithm.
