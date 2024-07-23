@@ -19,6 +19,7 @@ Welcome to the Flappy Bird Clone project! This is a simple, fun, and addictive g
 ## AI 🤖
 - Open the config-feedforward.txt file in the NEAT folder.
 - Modify the configuration settings to customize the inputs, hidden layers, and other neural network parameters as needed.
+- Run the ai_bird.py script. 
 
 ## Prerequisites
 Ensure you have the following installed on your machine:
