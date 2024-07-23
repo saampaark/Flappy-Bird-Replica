@@ -2,7 +2,7 @@
 
 Welcome to the Flappy Bird Clone project! This is a simple, fun, and addictive game inspired by the classic Flappy Bird game. This project was created using Pygame and includes an AI neural network that plays the game through the NeuroEvolution of Augmenting Topologies (NEAT) algorithm.
 
-Features 📋
+## Features 📋
 - Simple and intuitive controls
 - Engaging and addictive gameplay
 - Score tracking
